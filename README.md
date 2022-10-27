@@ -1,16 +1,8 @@
+# ERC20 Token
 
- - [Getting Started](#getting-started)
-  - [Requirements](#requirements)
-  - [Quickstart](#quickstart)
-- [Getting Started](#getting-started)
-  - [Requirements](#requirements)
-  - [Quickstart](#quickstart)
-    - [Typescript (Optional)](#typescript-optional)
-    - [Optional Gitpod](#optional-gitpod)
-- [Usage](#usage)
-- [Deployment to a testnet or mainnet](#deployment-to-a-testnet-or-mainnet)
-  - [Verify on etherscan](#verify-on-etherscan)
-- [Thank you!](#thank-you)
+This project is apart of the Hardhat FreeCodeCamp video. Thanks [@PatrickAlphaC](https://github.com/PatrickAlphaC) and [FreeCodeCamp]() for making this material avialable for Free!!! 
+
+Checkout the full blockchain course video [here](https://www.youtube.com/watch?v=gyMwXuJrbJQ). Plus the full repo [here](https://github.com/smartcontractkit/full-blockchain-solidity-course-js).
 
 # Getting Started
 
@@ -33,19 +25,6 @@ git clone https://github.com/PatrickAlphaC/hardhat-erc20-fcc
 cd hardhat-erc20-fcc
 yarn
 ```
-
-### Typescript (Optional)
-
-```
-git checkout typescript
-```
-
-### Optional Gitpod
-
-If you can't or don't want to run and install locally, you can work with this repo in Gitpod. If you do this, you can skip the `clone this repo` part.
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/PatrickAlphaC/hardhat-erc20-fcc)
-
 
 # Usage
 
@@ -89,13 +68,7 @@ yarn hardhat verify --constructor-args arguments DEPLOYED_CONTRACT_ADDRESS
 
 # Thank you!
 
-If you appreciated this, feel free to follow me or donate!
-
-ETH/Polygon/Avalanche/etc Address: 0x9680201d9c93d65a3603d2088d125e955c73BD65
-
-[![Patrick Collins Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PatrickAlphaC)
-[![Patrick Collins YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCn-3f8tw_E1jZvhuHatROwA)
-[![Patrick Collins Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrickalphac/)
-[![Patrick Collins Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@patrick.collins_58673/)
+[![JP Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpcampaya/)
+[![JP Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0xJayPi)
 
 
